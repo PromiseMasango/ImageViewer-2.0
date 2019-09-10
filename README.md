@@ -1,7 +1,7 @@
 ## C Gtk+ Image Viewer
 A simple and lightweight image viewer for linux. The main idea behind this project is to demonstrate the new image handling functions introduced in the latest Gtk+ version. 
-
-##Prerequisites
+ 
+## Prerequisites
 * git
 * gtk3-dev
 * pkg-config
@@ -14,14 +14,14 @@ A simple and lightweight image viewer for linux. The main idea behind this proje
 
 ## Getting Start
 ## clone the repository to your machine
-* mkdir imageviewer-1.0
+* mkdir imageviewer-2.0
 * git init
-* git clone https://github.com/PromiseMasango/ImageViewer-1.0
+* git clone https://github.com/PromiseMasango/ImageViewer-2.0
 
 ## Screenshots
 ![Welcome screen](/image1.png)
 ![select image](/image2.png)
-![about](/image3.png)
+![example image](/image3.png)
 
 ## Features
 * Open and and display an image.
